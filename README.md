@@ -28,3 +28,4 @@ THEN I am presented with a link to the developer's portfolio.
 
 ## What to improve upon 
 
+Not sure if my layout was accurate to what the acceptance criteria was looking for (three css files three js files) I noticed it as examples but I did not add much into each file.
